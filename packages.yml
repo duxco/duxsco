@@ -24,6 +24,9 @@ overlays:
     branch: master
 
 packages:
+  acct-group/anubis: guru
+  acct-user/anubis: guru
   app-crypt/clevis: guru
   dev-libs/luksmeta: guru
+  www-apps/anubis: guru
 ...
