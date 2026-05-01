@@ -25,6 +25,7 @@ overlays:
 
 packages:
   acct-group/anubis: guru
+  acct-group/tang: guru
   acct-user/anubis: guru
   acct-user/tang: guru
   app-crypt/clevis: guru
