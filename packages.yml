@@ -31,6 +31,5 @@ packages:
   app-crypt/clevis: guru
   app-crypt/tang: guru
   dev-libs/luksmeta: guru
-  net-vpn/mullvadvpn-app: guru
   www-apps/anubis: guru
 ...
